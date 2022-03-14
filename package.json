@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@samkirkland/ftp-deploy": "^1.2.1"
+  },
+
+  "scripts": {
+    "deploy": "ftp-deploy --server ftpx.forpsi.com --username aerithu --password aeritrocks"
+  }
+}

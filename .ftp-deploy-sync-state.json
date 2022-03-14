@@ -1,0 +1,53 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1647279318196,
+    "data": [
+        {
+            "type": "folder",
+            "name": ".idea"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 22,
+            "hash": "dc9e65aebbbb32bc3efb9361e884d8fd5652e914a05a21da9d571f583951c550"
+        },
+        {
+            "type": "file",
+            "name": "package-lock.json",
+            "size": 289777,
+            "hash": "1bb0ca2b637fc0a15a1f08291016a5e1090acdff363e7ceede90fb4226eaa55f"
+        },
+        {
+            "type": "file",
+            "name": "package.json",
+            "size": 182,
+            "hash": "a687e2bf66a6304a6d61bd63bef11cd3717eac0d6075d0aa8bc07d8fe282a302"
+        },
+        {
+            "type": "file",
+            "name": ".idea/ftp-deploy.iml",
+            "size": 281,
+            "hash": "e9c004d5beedb8d8501aa5456096bd5d18180f3081cd2f56e8196c44659838a2"
+        },
+        {
+            "type": "file",
+            "name": ".idea/vcs.xml",
+            "size": 180,
+            "hash": "55768f1f84fb117f1d0fc383e180b5d0aa5e5e6584c8c4a2995c15b4237f0972"
+        },
+        {
+            "type": "file",
+            "name": ".idea/workspace.xml",
+            "size": 2833,
+            "hash": "f71718350fd1e836374d49e9b1f877eeb459d877194da29b8caec2ee27b52ddf"
+        },
+        {
+            "type": "file",
+            "name": ".idea/modules.xml",
+            "size": 272,
+            "hash": "1686450a26b3d8a8a3e5869bee3086e323ce039e05af66e65add5552e3992fdc"
+        }
+    ]
+}
